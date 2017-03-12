@@ -14,4 +14,4 @@ galaxy_info:
   galaxy_tags: []
 
 dependencies:
- - { role: rpmfusion__impl, repo: free }
+ - { role: sourcejedi.rpmfusion__impl, repo: free }
