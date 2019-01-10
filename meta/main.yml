@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: rpmfusion-free
   author: Alan Jenkins
   description: Enable the RPM Fusion "free" software repository, on Fedora Linux
 
