@@ -1,4 +1,4 @@
-# sourcejedi.rpmfusion-free #
+# sourcejedi.rpmfusion_free #
 
 Enable the [RPM Fusion](https://rpmfusion.org/) "free" software repository, on Fedora Linux.
 
