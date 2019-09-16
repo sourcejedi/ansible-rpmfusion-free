@@ -2,11 +2,12 @@ galaxy_info:
   role_name: rpmfusion_free
   author: Alan Jenkins
   description: Enable the RPM Fusion "free" software repository, on Fedora Linux
-
+  galaxy_tags:
+    - repository
   license: GPLv3
 
-  # check_mode
-  min_ansible_version: 2.2
+  # rpmfusion__impl uses import_tasks / include_tasks
+  min_ansible_version: 2.4
 
   platforms:
     - name: Fedora
@@ -14,8 +15,6 @@ galaxy_info:
        - 29
        - 30
 
-  galaxy_tags:
-    - repository
 
 dependencies:
  - { role: sourcejedi.rpmfusion__impl, repo: free }
