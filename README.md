@@ -2,7 +2,7 @@
 
 Enable the [RPM Fusion](https://rpmfusion.org/) "free" software repository, on Fedora Linux.
 
-For more complete documentation, please see [sourcejedi.rpmfusion__impl].
+For more complete documentation, please see [sourcejedi.rpmfusion__impl][role_rpmfusion__impl].
 
 [rpmfusion]: https://rpmfusion.org/
 [role_rpmfusion__impl]: https://github.com/sourcejedi/ansible-rpmfusion__impl
